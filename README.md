@@ -1,2 +1,2 @@
 # django-CRM-webapp
-Python - CRM webapp using Django Framework. 
+Python - CRM web application using Django Framework. 
