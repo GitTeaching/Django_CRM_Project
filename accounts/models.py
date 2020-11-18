@@ -1,7 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 
-# Create your models here.
+# Models creation : Customer, Tag, Order, and Product
 
 class Customer(models.Model):
 	name = models.CharField(max_length=200, null=True)
